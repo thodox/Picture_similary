@@ -32,3 +32,13 @@ Enter your description:  a dog
 Detailed automatic description of the image: this is a black and white photo of a puppy running in the grass
 Your description: a dog
 Similarity between the description and the image: 42.92%
+
+
+
+## FUTURE
+To enhance the predictive and analytical capabilities of our application, we plan to integrate OpenAI's API into our workflow. First, we will use OpenAI's models to generate more detailed and vivid image descriptions. This will help improve accuracy when comparing automatically generated descriptions with those provided by users.
+
+We will also apply natural language processing (NLP) techniques to summarize, classify, and analyze the sentiment of text, thereby enhancing the quality of the descriptions. A keyword suggestion system based on image content will assist users in creating more accurate descriptions.
+
+Additionally, we aim to develop interactive features like chatbots, allowing users to ask questions and receive feedback from the AI model easily. Finally, we will leverage the API to evaluate the performance of current models and extend the application to other platforms such as web or mobile.
+
