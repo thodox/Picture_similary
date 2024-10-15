@@ -28,9 +28,13 @@ The program calculates the similarity between the automatically generated captio
 ![image](https://github.com/user-attachments/assets/e5058a49-81d6-477d-8066-2eb0988aacd5)
 
 Automatically generated description of the image: this is a black and white photo of a puppy running in the grass
+
 Enter your description:  a dog
+
 Detailed automatic description of the image: this is a black and white photo of a puppy running in the grass
+
 Your description: a dog
+
 Similarity between the description and the image: 42.92%
 
 
